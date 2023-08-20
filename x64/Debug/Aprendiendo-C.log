@@ -1,2 +1,3 @@
-﻿  Uso-variables.c
+﻿  bloque4.c
+C:\Users\AG Consultores\source\repos\Aprendiendo-C\Aprendiendo-C\bloque4.c(3,9): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
   Aprendiendo-C.vcxproj -> C:\Users\AG Consultores\source\repos\Aprendiendo-C\x64\Debug\Aprendiendo-C.exe

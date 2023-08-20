@@ -2,7 +2,7 @@
 
 #include<stdio.h>
 
-int main() {
+int main2() {
 
 	int number; //Esto es un numero entero en C
 	int numberT = 2;
