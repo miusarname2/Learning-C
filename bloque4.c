@@ -4,18 +4,18 @@
 
 #define PI 3.1416
 
-//int main5() {
+int main3() {
 
-	//float constante;
+	float constante;
 
-	//constante = PI;
+	constante = PI;
 
-	//printf("El valor de la constante es de %f", constante);
+	printf("El valor de la constante es de %f", constante);
 
-	//return 0;
-//}
+	return 0;
+}
 
-int main() {
+int main4() {
 	int variableToAssing;
 
 	printf("Introduce el valor a la variable:");
