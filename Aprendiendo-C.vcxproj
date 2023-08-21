@@ -129,7 +129,11 @@
   <ItemGroup>
     <ClCompile Include="Bloque1-5.c" />
     <ClCompile Include="bloque4.c" />
+    <ClCompile Include="Ejercicio2.c" />
+    <ClCompile Include="Ejercicio3.c" />
+    <ClCompile Include="Ejercicios1.c" />
     <ClCompile Include="hello.c" />
+    <ClCompile Include="ordenamiento-metodo-burbuja.c" />
     <ClCompile Include="Uso-variables.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

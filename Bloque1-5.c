@@ -3,7 +3,7 @@
 #include<stdio.h>;
 #include<math.h>;
 
-int main() {
+int main5() {
 	int num1 = 10;
 	float num2 = 553.5;
 

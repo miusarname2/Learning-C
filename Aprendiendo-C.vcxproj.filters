@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Archivos de origen\Ejercicios">
+      <UniqueIdentifier>{b39d4120-f7ae-4550-8191-5747a26c398f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="hello.c">
@@ -26,6 +29,18 @@
     </ClCompile>
     <ClCompile Include="Bloque1-5.c">
       <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="ordenamiento-metodo-burbuja.c">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Ejercicios1.c">
+      <Filter>Archivos de origen\Ejercicios</Filter>
+    </ClCompile>
+    <ClCompile Include="Ejercicio2.c">
+      <Filter>Archivos de origen\Ejercicios</Filter>
+    </ClCompile>
+    <ClCompile Include="Ejercicio3.c">
+      <Filter>Archivos de origen\Ejercicios</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
